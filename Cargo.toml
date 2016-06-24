@@ -1,0 +1,9 @@
+[package]
+name = "testweb"
+version = "0.1.0"
+authors = ["maxfridbe"]
+
+[dependencies]
+nickel = "*"
+rustc-serialize = "*"
+image = "*"

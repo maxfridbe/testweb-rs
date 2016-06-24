@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="Cargo &lt;testweb&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/matches-0.1.2" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/url-1.1.1" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/cookie-0.2.5" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/traitobject-0.0.3" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/unicode-bidi-0.2.3" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/libc-0.2.12" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/winapi-0.2.7" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/uuid-0.2.2" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/hpack-0.2.0" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/log-0.3.6" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/kernel32-sys-0.2.2" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/httparse-1.1.2" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/utf8-ranges-0.1.3" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/typemap-0.3.3" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/memchr-0.1.11" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/time-0.1.35" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/unicode-normalization-0.1.2" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/unicase-1.4.0" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/language-tags-0.2.2" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/winapi-build-0.1.1" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/rand-0.3.14" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/idna-0.1.0" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/nickel-0.8.1" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/unsafe-any-0.4.1" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/rustc_version-0.1.7" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/solicit-0.4.4" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/aho-corasick-0.5.2" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/thread_local-0.2.6" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/plugin-0.2.6" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/traitobject-0.0.1" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/regex-0.1.71" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/mustache-0.6.3" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/modifier-0.1.0" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/lazy_static-0.1.16" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/semver-0.1.20" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/regex-syntax-0.3.3" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/num_cpus-0.2.13" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/mime-0.2.1" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/thread-id-2.0.0" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/groupable-0.2.0" />
+      <root url="file://$USER_HOME$/.cargo/registry/src/github.com-88ac128001ac3a9a/typeable-0.1.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
