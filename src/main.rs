@@ -1,17 +1,22 @@
 extern crate rustc_serialize;
 #[macro_use] extern crate nickel;
 extern crate image;
+extern crate chrono;
 
 use nickel::status::StatusCode;
 use nickel::{Nickel, StaticFilesHandler, HttpRouter, JsonBody, Request,Response,MiddlewareResult};
 use rustc_serialize::json;
-use std::fs::File;
+
 use std::path::Path;
 
 use image::{
     GenericImage,
     ImageBuffer
 };
+
+mod logger;
+use logger::Logger;
+
 
 #[derive(RustcDecodable, RustcEncodable)]
 struct Person {
@@ -53,6 +58,7 @@ fn main() {
 
     let mut server = Nickel::new();
 
+    server.utilize(Logger);
     server.utilize(StaticFilesHandler::new("examples/assets/"));
 
     server.post("/a/post/request", middleware! { |request, response|

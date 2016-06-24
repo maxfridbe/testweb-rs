@@ -7,3 +7,4 @@ authors = ["maxfridbe"]
 nickel = "*"
 rustc-serialize = "*"
 image = "*"
+chrono = "*"
